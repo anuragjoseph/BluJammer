@@ -43,11 +43,13 @@ It is intended **only for devices you own or have permission to test**.
 Install BlueZ:
 
 bash
+
 sudo apt install bluez
 
 ## ▶️ Usage:
 
 bash
+
 sudo python3 main.py
 
 
