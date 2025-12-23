@@ -44,3 +44,37 @@ Install BlueZ:
 
 ```bash
 sudo apt install bluez
+
+## ▶️ Usage:
+
+'''bash
+sudo python3 main.py
+
+
+The program will:
+
+Display nearby Bluetooth devices
+
+Allow target selection
+
+Run a simulated diagnostic workload
+
+Demonstrate threading behavior safely
+
+## ⚠️ Legal & Ethical Notice
+
+This project is provided for educational purposes only.
+
+No real packets are flooded
+
+No jamming is performed
+
+No denial-of-service attacks occur
+
+Using similar techniques for unauthorized attacks is illegal and unethical.
+The author takes no responsibility for misuse of modified versions.
+
+## 👤 Author
+
+Benzy
+Cybersecurity & Systems Enthusiast
